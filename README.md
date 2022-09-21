@@ -1,4 +1,4 @@
-# 使更多人知道本宣言请[Fork](https://github.com/login?return_to=%2FBSD-is-closed-source%2FObscurantism)和[Star](https://github.com/login?return_to=%2FBSD-is-closed-source%2FObscurantism)
+# 使更多人知道本宣言请[Fork](https://github.com/BSD-is-closed-source/Obscurantism/fork)和[Star](https://github.com/BSD-is-closed-source/Obscurantism/star)
 # [世界人权宣言](https://www.un.org/zh/about-us/universal-declaration-of-human-rights)
 > [《世界人权宣言》](https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/chn.pdf) 是人权史上具有里程碑意义的文件。它由来自世界各个地区不同法律和文化背景的代表起草，于1948年12月10日在巴黎召开的大会会议上以第217A(III)号决议通过。《世界人权宣言》作为所有国家和所有人民的共同成就，第一次规定了基本人权应得到普遍保护。《世界人权宣言》已被翻译成500余种语言。人们普遍认为，《世界人权宣言》鼓舞并促成了超过七十个人权条约的签订。这些条约成为全球和区域层面人权法的恒久基础（均在序言中对《宣言》作了引用）。
 # 世界人权宣言  [中文音乐](/Chinese/) [英文音乐](/English/)
