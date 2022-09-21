@@ -1,9 +1,7 @@
 # Obscurantism
 
-<!DOCTYPE html>
-<html>
-<body>
-  
-<audio controls autoplay>
-  <source src="/Chinese/music/0.ogg" type="audio/ogg">
+![](/Chinese/music/0.ogg)
+
+<audio controls="controls">
+  <source type="audio/ogg" src="/Chinese/music/0.ogg"></source>
 </audio>
