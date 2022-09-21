@@ -124,12 +124,13 @@
 ## 第三十条
 * 本宣言的任何条文，不得解释为默许任何国家、集团或个人有权进行任何旨在破坏本宣言所载的任何权利和自由的活动或行为。
 
-
-### 世界人权宣言 音乐 许可证:CC0
+---
+## 世界人权宣言 音乐 许可证:CC0
 [中文](/Chinese/)
 [英文](/English/)
 
-
+---
+---
 #### “无审查”按钮
 现在是捍卫自己权利的时候了。加入 EFF 并反对审查。以下是您现在可以做的一些事情来表明您在乎：
 * 将 EFF 的 No Censorship 按钮下载到您的网站和您的社交网络活动中。
@@ -143,12 +144,18 @@
 * 加入竞选。将 EFF 的“No Censorship”按钮放在可以看到的地方，并代表言论自由。
 * 在 你的聊天软件 »用 EFF 的“无审查”按钮替换您的  个人资料头像。
 
+---
+# 致谢
+[无国界记者](https://rsf.org/en/our-petitions)
 
-#### 致谢
-[无国界记者][https://rsf.org/](https://rsf.org/en/our-petitions)
 [联合国](https://www.un.org/)
+
 [联合国人权事务高级专员办事处](https://www.ohchr.org/)
+
 [世界人权宣言](https://unicode.org/udhr/index.html)
+
 [何谓无政府主义](https://www.marxists.org/chinese/emma-goldman/1910/index.htm) 
+
 [EFF](https://www.eff.org/)
+
 提供音乐制作软件 [balabolka](http://www.cross-plus-a.com/balabolka.htm)
