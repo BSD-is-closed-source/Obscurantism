@@ -1,6 +1,9 @@
 # [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 > The [Universal Declaration of Human Rights (UDHR)](https://www.un.org/sites/un2.un.org/files/2021/03/udhr.pdf) is a milestone document in the history of human rights. Drafted by representatives with different legal and cultural backgrounds from all regions of the world, the Declaration was proclaimed by the United Nations General Assembly in Paris on 10 December 1948 (General Assembly resolution 217 A) as a common standard of achievements for all peoples and all nations. It sets out, for the first time, fundamental human rights to be universally protected and it has been translated into over 500 languages. The UDHR is widely recognized as having inspired, and paved the way for, the adoption of more than seventy human rights treaties, applied today on a permanent basis at global and regional levels (all containing references to it in their preambles). 
 
+## Universal Declaration of Human Rights. [music](/English/)
+
+
 ## Preamble
 * Whereas recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world,
 * Whereas disregard and contempt for human rights have resulted in barbarous acts which have outraged the conscience of mankind, and the advent of a world in which human beings shall enjoy freedom of speech and belief and freedom from fear and want has been proclaimed as the highest aspiration of the common people,
@@ -124,7 +127,7 @@
 
 ---
 ## Universal Declaration of Human Rights. music License:CC0
-[English](/English/)
+[music](/English/)
 ---
 ---
 #### No Censorship button!
@@ -143,7 +146,10 @@ On Twitter » Participate in our [Twibbon Campaign](http://twibbon.com/join/Say-
 
 On Facebook » Replace your Facebook profile photo with EFF's "No Censorship" button.
 
-On a blog or website » Paste the following code into a blog post or your website's template to show your support for free expression: ``` <a href="https://www.eff.org/pages/say-no-to-online-censorship"><img src="https://w2.eff.org/images/no_censorship_button.jpg"></a> ```
+On a blog or website » Paste the following code into a blog post or your website's template to show your support for free expression: 
+```
+<a href="https://www.eff.org/pages/say-no-to-online-censorship"><img src="https://w2.eff.org/images/no_censorship_button.jpg"></a>
+```
 
 ---
 # Thanks
@@ -162,3 +168,9 @@ On a blog or website » Paste the following code into a blog post or your websit
 Provide music production software.[balabolka](http://www.cross-plus-a.com/balabolka.htm) 
 
 
+## Contact me
+Group: [Cabal](https://Cabal.chat)
+
+Group: [Revolt](https://rvlt.gg/)
+
+Group: [Session](https://github.com/oxen-io)
