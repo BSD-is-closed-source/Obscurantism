@@ -1,5 +1,6 @@
 # [世界人权宣言](https://www.un.org/zh/about-us/universal-declaration-of-human-rights)
 > [《世界人权宣言》](https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/chn.pdf) 是人权史上具有里程碑意义的文件。它由来自世界各个地区不同法律和文化背景的代表起草，于1948年12月10日在巴黎召开的大会会议上以第217A(III)号决议通过。《世界人权宣言》作为所有国家和所有人民的共同成就，第一次规定了基本人权应得到普遍保护。《世界人权宣言》已被翻译成500余种语言。人们普遍认为，《世界人权宣言》鼓舞并促成了超过七十个人权条约的签订。这些条约成为全球和区域层面人权法的恒久基础（均在序言中对《宣言》作了引用）。
+# 世界人权宣言 音乐 [中文](/Chinese/) [英文](/English/)
 
 ## 序言
 * 鉴于对人类家庭所有成员的固有尊严及其平等的和不移的权利的承认，乃是世界自由、正义与和平的基础，
@@ -159,3 +160,8 @@
 [EFF](https://www.eff.org/)
 
 提供音乐制作软件 [balabolka](http://www.cross-plus-a.com/balabolka.htm)
+
+## 联络我
+群组：[Cabal](https://Cabal.chat)
+群组：[Session](https://github.com/oxen-io)
+群组：[Revolt](https://rvlt.gg/)
