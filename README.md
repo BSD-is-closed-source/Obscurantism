@@ -145,7 +145,7 @@
 #### 大声反对审查
 * 加入竞选。将 EFF 的“No Censorship”按钮放在可以看到的地方，并代表言论自由。
 * 在 你的聊天软件 »用 EFF 的“无审查”按钮替换您的  个人资料头像。
-在博客或网站上 »将以下代码粘贴到博客文章或您网站的模板中，以表示您对自由表达的支持：
+* 在博客或网站上 »将以下代码粘贴到博客文章或您网站的模板中，以表示您对自由表达的支持：
 ```
 <a href="https://www.eff.org/pages/say-no-to-online-censorship"><img src="https://w2.eff.org/images/no_censorship_button.jpg"></a>
 ```
