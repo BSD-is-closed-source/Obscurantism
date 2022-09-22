@@ -1,5 +1,7 @@
+# 使更多人知道本宣言请[Fork](https://github.com/BSD-is-closed-source/Obscurantism/fork)和[Star](https://github.com/BSD-is-closed-source/Obscurantism)
 # [世界人权宣言](https://www.un.org/zh/about-us/universal-declaration-of-human-rights)
 > [《世界人权宣言》](https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/chn.pdf) 是人权史上具有里程碑意义的文件。它由来自世界各个地区不同法律和文化背景的代表起草，于1948年12月10日在巴黎召开的大会会议上以第217A(III)号决议通过。《世界人权宣言》作为所有国家和所有人民的共同成就，第一次规定了基本人权应得到普遍保护。《世界人权宣言》已被翻译成500余种语言。人们普遍认为，《世界人权宣言》鼓舞并促成了超过七十个人权条约的签订。这些条约成为全球和区域层面人权法的恒久基础（均在序言中对《宣言》作了引用）。
+# 世界人权宣言  [中文音乐](/Chinese/) [英文音乐](/English/)
 
 ## 序言
 * 鉴于对人类家庭所有成员的固有尊严及其平等的和不移的权利的承认，乃是世界自由、正义与和平的基础，
@@ -126,8 +128,8 @@
 
 ---
 ## 世界人权宣言 音乐 许可证:CC0
-[中文](/Chinese/)
-[英文](/English/)
+[中文音乐](/Chinese/)
+[英文音乐](/English/)
 
 ---
 ---
@@ -143,6 +145,10 @@
 #### 大声反对审查
 * 加入竞选。将 EFF 的“No Censorship”按钮放在可以看到的地方，并代表言论自由。
 * 在 你的聊天软件 »用 EFF 的“无审查”按钮替换您的  个人资料头像。
+* 在博客或网站上 »将以下代码粘贴到博客文章或您网站的模板中，以表示您对自由表达的支持：
+```
+<a href="https://www.eff.org/pages/say-no-to-online-censorship"><img src="https://w2.eff.org/images/no_censorship_button.jpg"></a>
+```
 
 ---
 # 致谢
@@ -159,3 +165,10 @@
 [EFF](https://www.eff.org/)
 
 提供音乐制作软件 [balabolka](http://www.cross-plus-a.com/balabolka.htm)
+
+## 联络我
+群组：[Cabal](https://Cabal.chat)
+
+群组：[Session](https://github.com/oxen-io)
+
+群组：[Revolt](https://rvlt.gg/)
