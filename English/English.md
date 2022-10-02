@@ -1,3 +1,7 @@
+# [English](/English/) :tropical_drink: [Pусский](/Pусский/) :tropical_drink: [Español](/Español/) :tropical_drink: [Esperanto](/Esperanto/) :tropical_drink: [Chinese](/Chinese/) 
+
+# To make this manifesto known to more people please [Fork](https://github.com/BSD-is-closed-source/Obscurantism/fork) and [Star](https://github.com/BSD-is-closed-source/Obscurantism)
+
 # [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights)
 > The [Universal Declaration of Human Rights (UDHR)](https://www.un.org/sites/un2.un.org/files/2021/03/udhr.pdf) is a milestone document in the history of human rights. Drafted by representatives with different legal and cultural backgrounds from all regions of the world, the Declaration was proclaimed by the United Nations General Assembly in Paris on 10 December 1948 (General Assembly resolution 217 A) as a common standard of achievements for all peoples and all nations. It sets out, for the first time, fundamental human rights to be universally protected and it has been translated into over 500 languages. The UDHR is widely recognized as having inspired, and paved the way for, the adoption of more than seventy human rights treaties, applied today on a permanent basis at global and regional levels (all containing references to it in their preambles). 
 
