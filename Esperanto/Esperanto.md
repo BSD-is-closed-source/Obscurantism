@@ -1,3 +1,7 @@
+# [English](/English/) :tropical_drink: [Pусский](/Pусский/) :tropical_drink: [Español](/Español/) :tropical_drink: [Esperanto](/Esperanto/) :tropical_drink: [Chinese](/Chinese/) 
+
+# Por konigi ĉi tiun manifeston al pli da homoj, bonvolu [Fork](https://github.com/BSD-is-closed-source/Obscurantism/fork) kaj [Star](https://github.com/BSD-is-closed-source/Obscurantism/)
+
 # [Universala Deklaracio de Homaj Rajtoj](https://www.ohchr.org/en/human-rights/universal-declaration/translations/esperanto)
 > Adoptita kaj proklamita de Rezolucio 217 A (III) de la Ĝenerala Asembleo, 10an de decembro 1948
 
