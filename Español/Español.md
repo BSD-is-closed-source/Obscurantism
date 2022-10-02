@@ -1,3 +1,7 @@
+# [English](/English/) :tropical_drink: [Pусский](/Pусский/) :tropical_drink: [Español](/Español/) :tropical_drink: [Esperanto](/Esperanto/) :tropical_drink: [Chinese](/Chinese/) 
+
+# Para dar a conocer este manifiesto a más personas, [Fork](https://github.com/BSD-is-closed-source/Obscurantism/fork) y [Star](https://github.com/BSD-is-closed-source/Obscurantism/)
+
 # [La Declaración Universal de Derechos Humanos](https://www.un.org/es/about-us/universal-declaration-of-human-rights)
 > [La Declaración Universal de los Derechos Humanos](https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/spn.pdf) es un documento que marca un hito en la historia de los derechos humanos. Elaborada por representantes de todas las regiones del mundo con diferentes antecedentes jurídicos y culturales, la Declaración fue proclamada por la Asamblea General de las Naciones Unidas en París, el 10 de diciembre de 1948 en su [(Resolución 217 A (III)](https://undocs.org/es/A/RES/217(III)) como un ideal común para todos los pueblos y naciones. La Declaración establece, por primera vez, los derechos humanos fundamentales que deben protegerse en el mundo entero y ha sido [traducida a más de 500 idiomas.](http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/spn.pdf) La DUDH es ampliamente reconocida por haber inspirado y allanado el camino para la adopción de más de setenta tratados de derechos humanos, que se aplican hoy en día de manera permanente a nivel mundial y regional (todos contienen referencias a ella en sus preámbulos). 
 
