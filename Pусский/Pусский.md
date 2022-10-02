@@ -1,3 +1,7 @@
+# [English](/English/) :tropical_drink: [Pусский](/Pусский/) :tropical_drink: [Español](/Español/) :tropical_drink: [Esperanto](/Esperanto/) :tropical_drink: [Chinese](/Chinese/) 
+
+# Чтобы этот манифест стал известен большему количеству людей, пожалуйста, [Fork](https://github.com/BSD-is-closed-source/Obscurantism/fork) и [Star](https://github.com/BSD-is-closed-source/Obscurantism/)
+
 # [Всеобщая декларация прав человека](https://www.un.org/ru/about-us/universal-declaration-of-human-rights)
 > [Всеобщая декларация прав человека](https://www.un.org/ru/documents/decl_conv/declarations/declhr.shtml) является основополагающим документом исторической важности.  Текст Декларации явился результатом тесного взаимодействия специалистов в области права, представлявших все регионы планеты.  Декларация была принята [резолюцией 217 А](https://undocs.org/ru/A/RES/217(III)) Генеральной Ассамблеи Организации Объединенных Наций в Париже 10 декабря 1948 года в качестве документа, принципам, изложенным в котором, обязаны следовать все народы и страны.  Впервые в истории человечества был принят документ, провозгласивший необходимость защиты основных прав человека. Декларация переведена на 500 языков.
 
